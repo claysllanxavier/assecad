@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Clube",
+    "subtitle": "Gerar convite clube",
+    "img": "assets/images/swimming-pool.png",
+    "url": "swimming-pool"
+  },
+  {
+    "title": "Acampamento",
+    "subtitle": "Gerar convite acampamento",
+    "img": "assets/images/tent.png",
+    "url": "camp"
+  },
+  {
+    "title": "Meus Convites",
+    "subtitle": "Visualizar convites",
+    "img": "assets/images/mail.png",
+    "url": "invites"
+  },
+  {
+    "title": "Convênios",
+    "subtitle": "Lista dos nossos convênios",
+    "img": "assets/images/cooperation.png",
+    "url": "covenants"
+  },
+  {
+    "title": "Carteirinha",
+    "subtitle": "",
+    "img": "assets/images/business-cards.png",
+    "url": "card-profile"
+  },
+  {
+    "title": "Sair",
+    "subtitle": "",
+    "img": "assets/images/exit.png",
+    "url": "exit"
+  }
+]
